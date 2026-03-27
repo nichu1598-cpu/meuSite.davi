@@ -1,12 +1,12 @@
 body{
     font-family: Arial;
-    background: linear-gradient(to right,#000000,#f5f4f4);
+    background-image: -webkit-image-set('sonicwallpaper.jpg');
     color:white;
     text-align:center;
 }
 
 h1{
-    color:#001aff;
+    color:#0d09e5;
 }
 
 .perfil{
@@ -17,7 +17,7 @@ h1{
     width:200px;
     height:200px;
     border-radius:50%;
-    border:3px solid #001aff;
+    border:3px solid #3700ff;
 }
 
 .container{
