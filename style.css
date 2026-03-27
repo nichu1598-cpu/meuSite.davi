@@ -1,6 +1,6 @@
 body{
     font-family: Arial;
-    background-image: -webkit-image-set('sonicwallpaper.jpg');
+    background-image: url('imagens/sonicwallpaper.jpg');
     color:white;
     text-align:center;
 }
