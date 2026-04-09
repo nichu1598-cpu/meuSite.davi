@@ -38,4 +38,4 @@ let filmes = [
     
     });
     
-    series.forEach(function(s){
+    series.forEach(function(s)
